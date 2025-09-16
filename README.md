@@ -64,6 +64,8 @@ git branch branch1
 git branch branch2
 git checkout branch1
 git checkout branch2
+git merge <branch>
+git log --oneline --graph --decorate --all
 ```
 
 ---
@@ -75,5 +77,5 @@ git checkout branch2
 
 ---
 
-git merge <branch>
-git log --oneline --graph --decorate --all
+This submission is part of the IITM SEP 2025 Workshop Git Challenge.
+
