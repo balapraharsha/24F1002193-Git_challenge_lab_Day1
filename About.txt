@@ -1,0 +1,12 @@
+Modern Calculator Web App (Flask + HTML + CSS + JS)
+
+Files:
+1. app.py               -> Flask backend
+2. templates/index.html -> Calculator UI (HTML)
+3. static/style.css     -> Modern design (CSS)
+4. static/script.js     -> Button functionality (JS)
+5. README.txt           -> Info file
+
+Run Instructions:
+1. Install Flask: pip install flask
+2. Run: python app.py
