@@ -1,7 +1,7 @@
 # Git Challenge Lab – Day 1  
 **Roll Number:** 24F1002193  
 
-This submission is part of the IITM SEP 2025 Workshop Git Challenge.
+This submission is part of the IITM SEP 2025 Workshop Git Challenge. <br>
 This repository contains my work for the **Git Challenge Lab – Day 1**.  
 The tasks demonstrate Git basics: commits, branching, merge conflicts, and history visualization.  
 
